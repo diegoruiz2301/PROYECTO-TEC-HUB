@@ -1,0 +1,7 @@
+  <nav>
+    <a href="inicio/INICIO.HTML" target="_blank">Inicio</a>
+    <a href="servicios/SERVICIOS.HTML"target="_blank">Servicios</a>
+    <a href="compras/COMPRAS.HTML"target="_blank">Compras</a>
+    <a href="sedes/SEDES.HTML"target="_blank">Sedes</a>
+     <a href="nosotros/NOSOTROS.HTML"target="_blank">Nosotros</a>
+  </nav>
