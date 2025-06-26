@@ -1,0 +1,134 @@
+Impresora 1
+Nombre: Impresora Epson EcoTank L1250, USB 2.0, conexión inalámbrica + 4 botellas de tinta
+Marca: Epson
+Precio: S/ 545.00
+Acerca del producto
+
+    Tecnología de impresión: Inyección
+    Conectividad: Inalámbrica
+    Wi-Fi: Sí
+    Velocidad de impresión: Negro 33 PPM, Color 15 PPM
+    Escáner: No
+    Fotocopiadora: No
+    Incluye tintas: Sí
+    Fax: No 
+
+Impresora 2
+Nombre: Impresora Multifuncional HP Deskjet Ink Advantage 2775, conexión wifi, blanco, incluye cartuchos
+Marca: HP
+Precio: S/ 409.00
+Acerca del producto
+
+    Tecnología de impresión: Inyección
+    Wi-Fi: Sí
+    Velocidad de impresión: Hasta 12 ppm
+    Copias múltiples: Inalámbrica
+    Impresión doble cara: Manual (soporte para controlador suministrado)
+    Escáner: Sí
+    Resolución de escáner (dpi): Hasta 1200 x 1200 dpi
+    Fotocopiadora: Sí 
+
+Impresora 3
+Nombre: Impresora Epson multifuncional Ecotank L4260, inyección, inalámbrica, Wi-Fi, USB, 5760 x 1440 dpi, negro
+Marca: Epson
+Precio: S/ 939.00
+Acerca del producto
+
+    Tecnología de impresión: Inyección
+    Conectividad: Inalámbrica
+    Wi-Fi: Sí
+    Interfaz estándar: USB, Wi-Fi
+    Velocidad de impresión: Negro 10.5 ppm / Color 5 ppm
+    Resolución de impresión a color (dpi): 5760 x 1440 dpi
+    Resolución de impresión en negro (dpi): 5761 x 1440 dpi
+    Capacidad de papel: 100 
+
+Impresora 4
+Nombre: Impresora Brother Multifuncional MFC-T4500DW Inyeccion Inalambrica WI-FI USB Ethernet 4800 x 1200 dpi Negro
+Marca: Brother
+Precio: S/ 2,999.00
+Acerca del producto
+
+    Tecnología de impresión: Inyección
+    Conectividad: Inalámbrica
+    Wi-Fi: Sí
+    Interfaz estándar: USB / Wi-Fi / Ethernet
+    Velocidad de impresión: Negro 22 ppm / Color 20 ppm
+    Resolución de impresión a color (dpi): 4800 x 1200 dpi
+    Resolución de impresión en negro (dpi): 4800 x 1200 dpi
+    Capacidad de papel: 250 
+
+Impresora 5
+Nombre: Impresora multifuncional Canon G4110, inalámbrica, Wi-Fi, escáner, inyección de tinta, con tanques recargables, negro
+Marca: Canon
+Precio: S/ 835.00
+Acerca del producto
+
+    Tecnología de impresión: Inyección
+    Conectividad: Inalámbrica
+    Wi-Fi: Sí
+    Interfaz estándar: USB, Wi-Fi
+    Velocidad de impresión: Negro 8.8 ipm y color 5 ipm
+    Resolución de impresión a color (dpi): 4800 x 1200 dpi
+    Resolución de impresión en negro (dpi): 4800 x 1200 dpi
+    Capacidad de papel: Hasta 100 hojas 
+
+Impresora 6
+Nombre: Impresora láser Brother HL-1212W, monocromática, Wi-Fi, negro
+Marca: Brother
+Precio: S/ 344.00
+Acerca del producto
+
+    Tecnología de impresión: Láser
+    Wi-Fi: Sí
+    Interfaz estándar: Puerto USB, WiFi
+    Velocidad de impresión: Hasta 21 ppm Negro
+    Resolución de impresión a color (dpi): 2400 x 600 dpi
+    Resolución de impresión en negro (dpi): 2400 x 600 dpi
+    Capacidad de papel: Hasta 150 hojas estándar
+    Copias múltiples: No  
+
+Impresora 7
+Nombre: Impresora multifuncional HP Smart Tank 750 color, Wi-Fi, Smart App, Dúplex ADF, blanco recargables, negro
+Marca: HP
+Precio: S/ 1,038.00
+Acerca del producto
+
+    Tecnología de impresión: Inyección
+    Conectividad: Inalámbrica
+    Wi-Fi: Sí
+    Interfaz estándar: 1 Hi-Speed USB 2.0 (dispositivo); 1 Bluetooth de bajo consumo de energía; 1 Wi-Fi 802.11b/g/n; 1 Wi-Fi Direct
+    Velocidad de impresión: Negro (ISO): Hasta 15 ppm; Color (ISO): Hasta 9 ppm; Impresión de la primera página en negro: 14 segundos; Impresión de la primera página en color: Velocidad máxima de 21 segundos; Negro borrador (A4): Hasta 22 ppm; Borrador a color (A4): Hasta 16 ppm
+    Resolución de impresión en negro (dpi): Hasta 1200 x 1200 ppp de reproducción
+    Capacidad de papel: Hasta 100 hojas
+    Impresión doble cara: Sí 
+
+Impresora 8
+Nombre: Impresora multifuncional láser Brother DCP-L3560CDW Wi-Fi, inalámbrica, a color, usa cartuchos de tóner
+Marca: Brother
+Precio: S/ 1,959.00
+Acerca del producto
+
+    Tecnología de impresión: Láser
+    Conectividad: Inalámbrica
+    Wi-Fi: Sí
+    Velocidad de impresión: Hasta 27 ppm
+    Resolución de impresión a color (dpi): Resolución de hasta 2.400 x 600 dpi
+    Capacidad de papel: Bandeja de papel de 250 hojas y ranura de alimentación manual de 1 hoja
+    Copias múltiples: Alimentador automático de documentos (ADF)
+    Impresión doble cara: Sí 
+
+Impresora 9
+Nombre: Impresora multifuncional Epson EcoTank L5590 Wi-Fi, inalámbrica, inyección de tinta, con tanques recargables
+Marca: Epson
+Precio: S/ 1,049.90
+Acerca del producto
+
+    Tecnología de impresión: Inyección
+    Conectividad: Inalámbrica
+    Wi-Fi: Sí
+    Interfaz estándar: USB / Wi-Fi
+    Velocidad de impresión: 33 ppm en negro y 20 ppm en color
+    Resolución de impresión a color (dpi): Hasta 4800 x 1200 dpi
+    Resolución de impresión en negro (dpi): Hasta 1200 x 1200 dpi
+    Capacidad de papel: Hasta 100 hojas bandeja posterior  

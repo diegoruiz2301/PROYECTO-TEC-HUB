@@ -1,0 +1,133 @@
+Auricular 1
+Nombre: Audífonos bluetooth True Wireless JBL Endurance Peak 3 resistente al agua IP68, duración máx. 50 horas con estuche, negro
+Marca: JBL
+Precio: S/ 419.90
+Acerca del producto
+
+    Tipo: True Wireless
+    Resistencia al agua: Sí
+    Versión bluetooth: 5.2
+    Certificación: IP68
+    Conexión Bluetooth: Sí
+    Tiempo de reproducción: Hasta 50 horas (estuche 40 horas + audífonos 10 horas)
+    Inalámbrico: Sí
+    Conexión Auxiliar: No 
+
+Auricular 2
+Nombre: Airpods Pro 2da gen cancelación de ruido, resistente al agua IPX4, duración máx. 30 horas con estuche de carga, MagSafe, blanco
+Marca: Apple
+Precio: S/ 899.90
+Acerca del producto
+
+    Tipo: True Wireless
+    Resistencia al agua: Sí
+    Versión bluetooth: 5.3
+    Conexión Bluetooth: Sí
+    Tiempo de reproducción: Hasta 30 horas (Estuche 24 horas + audífonos 6 horas)
+    Inalámbrico: Sí
+    Conexión Auxiliar: No
+    Cancelación de ruido: Sí 
+
+Auricular 3
+Nombre: Audífonos over ear sin micrófono Shure SRH840A adaptador 1/4", conector 3.5 mm, cable desmontable, negro
+Marca: Shure
+Precio: S/ 714.00
+Acerca del producto
+
+    Tipo: Over Ear
+    Resistencia al agua: No
+    Longitud de cable: 3 m
+    Conexión Bluetooth: No
+    Inalámbrico: No
+    Conexión Auxiliar: No
+    Cancelación de ruido: No
+    Controles: Música y llamadas 
+
+Auricular 4
+Nombre: Audífonos bluetooth True Wireless JBL Wave Buds resistente al agua IP54 duración máx. 32 horas con estuche de carga, negro
+Marca: JBL
+Precio: S/ 179.90
+Acerca del producto
+
+    Tipo: True Wireless
+    Resistencia al agua: Sí
+    Versión bluetooth: 5.2
+    Conexión Bluetooth: Sí
+    Tiempo de reproducción: Hasta 32 horas (Estuche 24 horas + audífonos 8 horas)
+    Inalámbrico: Sí
+    Conexión Auxiliar: No
+    Cancelación de ruido: No 
+
+Auricular 5
+Nombre: Audífonos con cancelación de ruido Sennheiser Accentum micrófono incorporado, máx. 50 horas, control de música y llamadas, blanco
+Marca: Sennheiser
+Precio: S/ 579.00
+Acerca del producto
+
+    Tipo: Noise Cancelling
+    Resistencia al agua: Sí
+    Conexión Bluetooth: Sí
+    Tiempo de reproducción: Hasta 50 horas
+    Inalámbrico: Sí
+    Conexión Auxiliar: No
+    Cancelación de ruido: Sí
+    Tipo de batería: ion de litio de 800 mAh 
+
+Auricular 6
+Nombre: Audífonos bluetooth True Wireless Huawei FreeBuds Pro 4 cancelación de ruido, duración máx. 40 horas con estuche de carga, negro
+Marca: Huawei
+Precio: S/ 799.90
+Acerca del producto
+
+    Tipo: True Wireless
+    Versión bluetooth: 5.2
+    Conexión Bluetooth: Sí
+    Tiempo de reproducción: Hasta 40 horas (Estuche 33 horas + audífonos 7 horas)
+    Inalámbrico: Sí
+    Cancelación de ruido: Sí
+    Color: Negro
+    Tipo de conector: USB Tipo-C 
+Auricular 7
+Nombre: Audífonos bluetooth True Wireless Bose QuietComfort Ultra resistente al agua IPX4, duración máx. 6 horas de reproducción, cancelación de ruido, negro
+Marca: Bose
+Precio: S/ 1,699.00
+Acerca del producto
+
+    Tipo: True Wireless
+    Resistencia al agua: Sí
+    Versión bluetooth: 5.3
+    Certificación: IPX4
+    Conexión Bluetooth: Sí
+    Tiempo de reproducción: Hasta 6 horas
+    Inalámbrico: Sí
+    Cancelación de ruido: Sí 
+ 
+Auricular 8
+Nombre: Crusher 2 ANC: Audífonos con cancelación de ruido Skullcandy micrófono incorporado, máx. 50 horas, control de música y llamadas, negro
+Marca: Skullcandy
+Precio: S/ 649.90
+Acerca del producto
+
+    Tipo: Noise Cancelling
+    Resistencia al agua: No
+    Versión bluetooth: v5.2
+    Conexión Bluetooth: Sí
+    Tiempo de reproducción: Hasta 50 horas
+    Inalámbrico: Sí
+    Conexión Auxiliar: No
+    Impedancia (Ohmios): 32 ohms 
+ 
+Auricular 9
+Nombre: Audífonos bluetooth True Wireless Decibel Lite Pro duración máx. 34 horas, controles mediante botón, tipo C, negro
+Marca: Decibel
+Precio: S/ 79.90
+Acerca del producto
+
+    Tipo: True Wireless
+    Versión bluetooth: v 5.3
+    Conexión Bluetooth: Sí
+    Tiempo de reproducción: Hasta 34 horas
+    Inalámbrico: Sí
+    Impedancia (Ohmios): 16O ± 15%
+    Cancelación de ruido: No
+    Controles: Controles táctiles en los auriculares para reproducción, volumen, y llamadas 

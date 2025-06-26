@@ -1,0 +1,130 @@
+Monitor 1
+Nombre: Monitor gamer curvo 27" Teros TE-2766G Panel VA, FHD (1920x1080), 180Hz, 1ms, entradas HDMI/DISPLAYPORT
+Marca: Teros
+Precio: S/ 699.00
+Acerca del producto
+
+    Uso: Gamer
+    Formato de panel: Curvo
+    Tamaño de monitor: 27 "
+    Tipo de panel: VA
+    Resolución de pantalla: FHD(1920x1080)
+    Tasa de refresco: 180 Hz
+    Tiempo de respuesta: 1 ms
+    Puertos: 1x Displayport, 1x HDMI, 1x USB, 1x jack 3.5mm
+
+Monitor 2
+Nombre: Monitor Samsung 24" FHD Essential S3 LS24C330GALXPE Panel IPS, 100Hz, HDMI / DP, negro
+Marca: Samsung
+Precio: S/ 449.00
+Acerca del producto
+
+    Uso: Escritorio
+    Formato de panel: Plano
+    Tamaño de monitor: 24 "
+    Tipo de panel: IPS
+    Resolución de pantalla: FHD(1920x1080)
+    Tasa de refresco: 100 Hz
+    Tiempo de respuesta: 4 ms
+    Puertos: HDMI x 1DISPLAYPORT x 1 
+
+Monitor 3
+Nombre: Monitor gamer plano 27" Antryx IPX2712FGTL Panel IPS, FHD (1920 x 1080), 180Hz, 1ms, entradas DP 1.4 /HDMI 2.0
+Marca: Antryx
+Precio S/ 649.90
+Acerca del producto
+
+    Uso: Gamer
+    Formato de panel: Plano
+    Tamaño de monitor: 27 "
+    Tipo de panel: IPS
+    Resolución de pantalla: FHD(1920x1080)
+    Tasa de refresco: 180 Hz
+    Tiempo de respuesta: 1 ms
+    Puertos: DP 1.4, HDMI 2.0 
+
+Monitor 4
+Nombre: Monitor 22" Samsung LS22D310EALXPE VA, Full HD, 75 Hz, 5ms, HDMI
+Marca: Samsung
+Precio: S/ 275.00
+Acerca del producto
+
+    Uso: Escritorio
+    Formato de panel: Plano
+    Tamaño de monitor: 22 "
+    Tipo de panel: IPS
+    Resolución de pantalla: FHD(1920x1080)
+    Tasa de refresco: 75 Hz
+    Tiempo de respuesta: 5 ms
+    Puertos: 2 HDMI 
+
+Monitor 5
+Nombre: Monitor LG 24MS500-B 24", Full HD 1080p, 100Hz, 5ms, GtG AMD, FreeSync IPS, negro
+Marca: LG
+Precio: S/ 379.00
+Acerca del producto
+
+    Uso: Escritorio
+    Formato de panel: Plano
+    Tamaño de monitor: 24 "
+    Tipo de panel: IPS
+    Resolución de pantalla: FHD(1920x1080)
+    Tasa de refresco: 100 Hz
+    Tiempo de respuesta: 5 ms
+    Puertos: 2 HDMI 1.4, 1 jack audifono
+Monitor 6
+Nombre: Monitor curvo Micronics Brickell DG24FC 24" Full HD, 100 Hz, 3 ms, HDMI
+Marca: Micronics
+Precio: S/ 339.00
+Acerca del producto
+
+    Uso: Gamer
+    Formato de panel: Curvo
+    Tamaño de monitor: 23.8 "
+    Tipo de panel: LED
+    Resolución de pantalla: FHD(1920x1080)
+    Tasa de refresco: 100 Hz
+    Tiempo de respuesta: 3 ms
+    Puertos: 1 
+Monitor 7
+Nombre: Monitor plano Samsung 34" Ultrawide LS34C500GALXPE UW QHD, VA, 100 Hz, 5ms, HDMI/DP
+Marca: Samsung
+Precio: S/ 1,199.00
+Acerca del producto
+
+    Uso: Escritorio
+    Formato de panel: Plano
+    Tamaño de monitor: 34 "
+    Tipo de panel: VA
+    Resolución de pantalla: WQHD(3440x1440)
+    Tasa de refresco: 100 Hz
+    Tiempo de respuesta: 5 ms
+    Puertos: HDMI y Display Port 
+Monitor 8
+Nombre: Monitor Lg 22MR410-B, 21.45″ Fhd Va (1920X1080) Hdmix1/Vgax1/Hp-Out - 8985858585-I
+Marca: LG
+Precio: S/ 329.00
+Acerca del producto
+
+    Uso: Gamer
+    Formato de panel: Plano
+    Tamaño de monitor: 21.5 "
+    Tipo de panel: VA
+    Resolución de pantalla: FHD(1920x1080)
+    Tasa de refresco: 100 Hz
+    Tiempo de respuesta: 5 ms
+    Puertos: HDMI, VGA 
+Monitor 9
+Nombre: Monitor HP V22i G5 22", FHD (1920x1080), IPS, 75 Hz, 5 ms, HDMI/DP
+Marca: HP
+Precio: S/ 329.00
+Acerca del producto
+
+    Uso: Escritorio
+    Formato de panel: Plano
+    Tamaño de monitor: 22 "
+    Tipo de panel: IPS
+    Resolución de pantalla: FHD(1920x1080)
+    Tasa de refresco: 75 Hz
+    Tiempo de respuesta: 5 ms
+    Puertos: VGA y HDMI 
