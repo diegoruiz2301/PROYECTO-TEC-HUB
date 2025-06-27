@@ -1,0 +1,83 @@
+  body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #f2f2f2;
+      color: #333;
+    }
+
+   header {
+      background-color: #222222;
+      color: #fff;
+      padding: 0px;
+      padding-top: 20px;
+      text-align: center;
+    }
+    .search-container {
+      max-width: 400px;
+      margin: auto;
+      background-color: #222222;
+    }
+    .logo{
+    justify-content: center;
+    margin: 0.100px; /* Opcional: añade un poco de margen alrededor de la imagen */
+    margin-bottom: 10px;
+    width: 200px; /* Opcional: ajusta el ancho de la imagen */
+    height: auto; /* Mantiene la proporción de la imagen */
+    }
+    .search-box {
+      display: flex;
+      width: 100%;
+      border: 2px solid #ffffff;
+      border-radius: 5px;
+      overflow: hidden;
+      background-color: white;
+    }
+    .search-box input[type="text"] {
+      flex: 1;
+      padding: 10px;
+      border: none;
+      outline: none;
+      font-size: 16px;
+    }
+    .search-box button {
+      padding: 10px 20px;
+      border: none;
+      background-color: rgba(0, 0, 0, 0.564);
+      color: white;
+      cursor: pointer;
+      font-size: 16px;
+      transition: background-color 0.3s;
+    }
+    .search-box button:hover {
+      background-color: rgba(0, 0, 0, 0.834);
+    }
+     nav {
+      background-color: #222222;
+      display: inline-flex;
+      justify-content: left;
+      padding: 10px 0px;
+    }
+
+     nav a {
+      margin: 0 15px;
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+      transition: opacity 0.3s;
+    }
+
+     nav a:hover {
+      opacity: 0.7;
+    }
+
+    .cuenta{
+      justify-content: right;
+      margin-left: 200px;
+      width: auto;
+      height: auto;
+    }
+    .carro{
+      justify-content: right;
+      margin-left: 20px;
+    }
+
