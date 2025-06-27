@@ -81,3 +81,10 @@
       margin-left: 20px;
     }
 
+    footer {
+      background-color: #222222;
+      color: #ccc;
+      text-align: center;
+      padding: 20px;
+      font-size: 0.9em;
+    }
