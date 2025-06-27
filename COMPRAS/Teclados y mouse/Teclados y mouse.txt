@@ -1,0 +1,125 @@
+TM 1
+Nombre: Kit Razer: Teclado Cyonsa Lite membrana, alámbrico, conexión usb + Mouse Abyssus Lite SP conexión usb, luces Chroma RGB 
+Marca: Razer
+Precio: S/ 249.90
+Acerca del producto
+
+    Tipo de teclado: Membrana
+    Conectividad: Alámbrico
+    Interfaz: USB
+    Switch: No
+    Anti-ghosting: No
+    Teclado numérico: Sí
+    Iluminación: Sí
+    Botones de control multimedia: Sí 
+
+TM 2
+Nombre: Kit gamer Teraware Teclado alámbrico membrana, layout español + Mouse 3600 dpi, 6 botones, negro
+Marca: Razer
+Precio: S/ 69.90
+Acerca del producto
+
+    Tipo de teclado: Membrana
+    Conectividad: Alámbrico
+    Interfaz: USB
+    Número de botones mouse: 6 botones
+    DPI mouse: 3600 dpi
+    Color del teclado: Negro 
+TM 3
+Nombre: Teclado Redragon ZIGGS, RGB, pad numérico, español, negro
+Marca: Redragon
+Precio: S/ 205.00
+Acerca del producto
+
+    Tipo de teclado: Mecánico
+    Conectividad: Alámbrico
+    Interfaz: Cable USB Tipo-C
+    Switch: Rojo
+    Detalle de Switch: Lineal sin clic audible
+    Longitud del cable: 1.80 metros
+    Anti-ghosting: Sí
+    Sistemas operativos compatibles: WINDOWS 
+TM 4
+Nombre: Teclado gamer Logitech G Pro, mecánico, alámbrico, conexión usb, sin teclado numérico, luces RGB
+Marca: Logitech
+Precio: S/ 549.90
+Acerca del producto
+
+    Tipo de teclado: Mecánico
+    Conectividad: Alámbrico
+    Interfaz: USB
+    Switch: GX Blue
+    Detalle de Switch: Clicky GX azul con distancia de actuación 2,0 mm, fuerza de actuación 50 g (1.8 oz) y distancia total de viaje 3,7 mm
+    Longitud del cable: 1.8 m
+    Tipo de cable: desmontable
+    Sistemas operativos compatibles: Windows 7 o posteriores, Mac OS X 10.10 o posteriores 
+TM 5
+Nombre: Mouse gamer inalámbrico Logitech G502 Xplus Lightpeed Wireless, receptor usb, 25600 dpi, 13 botones, RGB, blanco
+Marca: Logitech
+Precio: S/ 679.00
+Acerca del producto
+
+    Color: Blanco
+    Conectividad: Inalámbrico
+    Interfaz: Receptor Usb
+    DPI máx.: 25600 DPI
+    Detalle de DPI: 100 - 25600 DPI
+    Número de botones: 13 botones
+    Botones programables: Sí
+    Compatibilidad con sistema operativo: Windows 10 o posterior, Mac 10.14 o posterior 
+TM 6
+Nombre: Mouse gamer T4G Kfir RGB alámbrico, conexión USB, 6 botones, 3600 dpi, negro
+Marca: Teraware
+Precio: S/ 39.90
+Acerca del producto
+
+    Color: Negro
+    Conectividad: Alámbrico
+    Interfaz: Cable USB
+    DPI máx.: 3600 dpi
+    Detalle de DPI: 600-3600
+    Número de botones: 6 botones
+    Iluminación: Sí
+    Compatibilidad con sistema operativo: WINDOWS 7 O SUPERIOR  
+TM 7
+Nombre: Mouse gamer Razer Cobra alámbrico, conexión usb, 8500 DPI, Chroma, 6 botones, sensor óptico, negro
+Marca: Razer
+Precio: S/ 154.90
+Acerca del producto
+
+    Color: Negro
+    Conectividad: Alámbrico
+    Interfaz: Cable USB
+    DPI máx.: 8,500 DPI
+    Detalle de DPI: Sensor óptico con ajuste de DPI en incrementos de 50
+    Número de botones: 6 botones
+    Iluminación: Chroma RGB
+    Compatibilidad con sistema operativo: Windows  
+TM 8
+Nombre: Mouse gamer T4G Kfir RGB alámbrico, conexión USB, 6 botones, 3600 dpi, negro
+Marca: Teraware
+Precio: S/ 39.90
+Acerca del producto
+
+    Color: Negro
+    Conectividad: Alámbrico
+    Interfaz: Cable USB
+    DPI máx.: 3600 dpi
+    Detalle de DPI: 600-3600
+    Número de botones: 6 botones
+    Iluminación: Sí
+    Compatibilidad con sistema operativo: WINDOWS 7 O SUPERIOR 
+TM 9
+Nombre: Teclado Gamer Razer Ornata V3 X Membrana US Low Profile Chroma, luces, negro - IX03-04470200
+Marca: Razer
+Precio: S/ 149.00
+Acerca del producto
+
+    Tipo de teclado: Membrana
+    Conectividad: Alámbrico
+    Interfaz: Cable USB
+    Switch: Teclas de membrana de bajo perfil
+    Detalle de Switch: Teclas suaves y acolchadas con respuesta táctil
+    Longitud del cable: 2 m
+    Número total de teclas: 87 teclas
+    Teclado numérico: No 

@@ -1,0 +1,134 @@
+Laptop 1
+Nombre: MacBook Air Apple 15.3" Chip M3, 256GB SSD, 16GB RAM, 10GPU, macOS, teclado en español, Silver
+Marca: Apple
+Precio: 5,799.90
+Acerca del producto
+
+    Tamaño de pantalla: 15.3"
+    Procesador: Chip M3
+    Memoria RAM: 16 GB
+    Capacidad de disco sólido (SSD): 256 GB
+    Resolución de pantalla: 2560 x 1664
+    Incluye sistema operativo: Sí
+    Bluetooth: Sí
+    Wi-Fi: Sí 
+
+Laptop 2
+Nombre: Laptop Asus TUF Gaming F15 15.6" FHD, Intel Core i7-13620H, 1TB SSD, 16GB RAM DDR5, GeForce RTX 4050 6GB, Win 11, teclado español, gris
+Marca: ASUS
+Precio: 5,729.90
+Acerca del producto
+
+    Tamaño de pantalla: 15.6"
+    Procesador: Intel Core i7
+    Detalle del procesador: Intel Core i7-13620H (13th Gen)
+    Memoria RAM: 16 GB
+    Capacidad de disco sólido (SSD): 1 TB
+    Tasa de refresco laptop: 144 Hz
+    Resolución de pantalla: 1920 x 1080 (FHD)
+    Tipo de panel: IPS 
+
+Laptop 3
+Nombre: Laptop Dell XPS 15 9500 LED 15.6"4K Touch, Core i5-10300H 2.5GHz, 16GB RAM, 512GB SSD, Windows 10 Pro, platino
+Marca: DELL
+Precio: 4,999.00
+Acerca del producto
+
+    Tamaño de pantalla: 15.6 "
+    Procesador: Intel Core i5
+    Detalle del procesador: Core i5-10300H 2.5GHz
+    Memoria RAM: 16 GB
+    Capacidad de disco sólido (SSD): 512 GB
+    Resolución de pantalla: 4K (3840 x 2400)
+    Tipo de panel: IPS
+    Detalle de memoria RAM: DDR4 ampliable 
+
+Laptop 4
+Nombre: Laptop gamer Lenovo LOQ 15ARP9 15.6", Ryzen 5-7235HS, 512GB SSD, 12G RAM, RTX 3050, Win11, gris
+Marca: Levono
+Precio: 2,999.90
+Acerca del producto
+
+    Tamaño de pantalla: 15.6"
+    Procesador: AMD Ryzen 5
+    Detalle del procesador: Ryzen 5-7235HS
+    Memoria RAM: 12 GB
+    Capacidad de disco sólido (SSD): 512 GB
+    Tasa de refresco laptop: 144 Hz
+    Resolución de pantalla: 1920 x 1080 (FHD)
+    Tipo de panel: IPS 
+
+Laptop 5
+Nombre: Laptop HP 15-fd0053la, 15.6" HD, i5-1235U 3.30GHz, 16GB RAM, 512GB SSD, FreeDOS, plateado
+Marca: HP
+Precio: 2,119.00
+Acerca del producto
+
+    Tamaño de pantalla: 15.6 "
+    Procesador: Intel Core i5
+    Detalle del procesador: Core i5 1235U
+    Memoria RAM: 16 GB
+    Capacidad de disco sólido (SSD): 512 GB
+    Resolución de pantalla: 1366 x 768 ANTI-REFLEJO
+    Tipo de panel: INTEL IRIS XE GRAPHICS
+    Detalle de memoria RAM: 2 x 8 GB DDR4 - 3200 MHZ 
+
+Laptop 6
+Nombre: Laptop Lenovo V15 G3 IAP 15.6" FHD, Intel Core i5 12va Gen, 16GB RAM, 1TB SSD + 1TB hdd, Windows 11, negro
+Marca: Levono
+Precio: 2,799.00
+Acerca del producto
+
+    Tamaño de pantalla: 15.6 "
+    Procesador: Intel Core i5
+    Memoria RAM: 16 GB
+    Capacidad de disco sólido (SSD): 1 TB
+    Capacidad de disco duro (HDD): 1 TB
+    Procesador gráfico: Intel
+    Detalle del procesador gráfico: Intel UHD Graphics
+    Incluye sistema operativo: Sí 
+
+Laptop 7
+Nombre: MacBook Air 13.6" Chip M2 de Apple, GPU de 8 núcleos, 256GB SSD, 16GB RAM, macOS, teclado en español, starlight
+Marca: Apple
+Precio: 4,299.90
+Acerca del producto
+
+    Tamaño de pantalla: 13.6 "
+    Procesador: Chip M2
+    Detalle del procesador: 8 núcleos
+    Memoria RAM: 16 GB
+    Capacidad de disco sólido (SSD): 256 GB
+    Resolución de pantalla: 2560 por 1664 a 224 píxeles
+    Tipo de gráficos: Integrado
+    Procesador gráfico: Apple 
+
+Laptop 8
+Nombre: Laptop gamer Acer Nitro 5 AN515-57 15.6", Core i9-11900H, 16GB RAM, SSD 512GB, 6GB RTX3060, FHD 144Hz RGB, Windows 11 Home, negro
+Marca: Acer
+Precio: 5,999.00
+Acerca del producto
+
+    Tamaño de pantalla: 15.6 "
+    Procesador: Intel Core i9
+    Detalle del procesador: Intel Core i9-11900H
+    Memoria RAM: 16 GB
+    Capacidad de disco sólido (SSD): 512 GB
+    Tasa de refresco laptop: 144 Hz
+    Resolución de pantalla: Full HD (1920 x 1080)
+    Tipo de panel: IPS 
+
+Laptop 9
+Nombre: Laptop Lenovo IdeaPad Slim 3 15IAH8, i5-12450H, 16GB RAM DDR5, 512GB SSD, 15.6" FHD, Windows 11, azul
+Marca: Levono
+Precio: 2,079.00
+Acerca del producto
+
+    Tamaño de pantalla: 15.6 "
+    Procesador: Intel Core i5
+    Detalle del procesador: Intel Core i5 12450H
+    Memoria RAM: 16 GB
+    Capacidad de disco sólido (SSD): 512 GB
+    Resolución de pantalla: 1920 x 1080 (FHD)
+    Tipo de gráficos: Integrado
+    Procesador gráfico: Intel 
