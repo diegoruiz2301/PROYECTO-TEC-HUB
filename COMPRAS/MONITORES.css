@@ -81,14 +81,44 @@
       margin-left: 20px;
     }
      main{
-      border: solid red;
       justify-content: center;
       display:grid;
       grid-template-columns: 1fr 3fr;
       margin-bottom:70px;
     }
     aside{
-      border: solid aqua;
+      border: solid #fff;
+    }
+    .filtrar{
+      background-color: #222222;
+      box-pack: center;
+      -ms-flex-pack: center;
+      box-align: center;
+      -ms-flex-align: center;
+      align-items: center;
+      border: 0;
+      display: -webkit-box;
+      display: -ms-flexbox;
+      display: flex;
+      font-weight: 700;
+      justify-content: center;
+      padding: 25px 30px;
+    }
+    .categoriamain{
+      color: white;
+      text-decoration: none;
+    }
+    .categoriaa{
+      color: #222222;
+      transition: color 0.3s;
+      transition: opacity 0.3s;
+      text-decoration: none;
+      cursor: pointer;
+      font-size: 20px;
+    }
+    .categoriaa:hover{
+      color: rgb(255, 0, 0);
+      opacity: 0.7;
     }
     article{
       border: solid #333 3px;
@@ -120,12 +150,13 @@
     .boton_comprar{
       background-color:white;
       margin-left: 70px;
+      cursor: pointer;
     }
     section{
-    border: solid rgb(255, 196, 34);
     display: grid;
     grid-template-rows: repeat(3, 300px);
     grid-template-columns: 1fr 1fr 1fr;
+    border: solid #fff;
     }
 
     footer {
