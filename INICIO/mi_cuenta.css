@@ -1,0 +1,61 @@
+  body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+        }
+        .contenedor {
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            width: 100%;
+            max-width: 500px;
+        }
+       
+        .fomulario   label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: bold;
+            color: #333;
+        }
+        .fomulario input[type="nombre"],
+        .fomulario input[type="email"],
+        .fomulario input[type="contraseña"],
+        .fomulario input[type="number"],
+        .fomulario input[type="date"],
+        
+        .contraseña select {
+            width: calc(100% - 20px);
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 16px;
+        }
+        
+        
+        
+        .fomulario input[type="checkbox"] {
+            margin-right: 10px;
+        }
+        
+        .fomulario {
+            text-align: left;
+            margin-top: 30px;
+        }
+        .fomulario button {
+            background-color: #007bff;
+            color: white;
+            padding: 12px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            transition: background-color 0.3s ease;
+        }
+        .form-actions button:hover {
+            background-color: red   ;
+        }
