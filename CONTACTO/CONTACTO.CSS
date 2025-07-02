@@ -1,0 +1,177 @@
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', sans-serif;
+      background-color: rgba(0, 0, 0, 0.87);
+      color: #333;
+    }
+
+    header {
+      background-color: #222222;
+      color: #fff;
+      padding: 0px;
+      padding-top: 20px;
+      text-align: center;
+    }
+
+    .logo{
+    justify-content: center;
+    margin: 0.100px; /* Opcional: añade un poco de margen alrededor de la imagen */
+    margin-bottom: 10px;
+    width: 200px; /* Opcional: ajusta el ancho de la imagen */
+    height: auto; /* Mantiene la proporción de la imagen */
+    }
+
+ .cuenta{
+      justify-content: right;
+      margin-left: 200px;
+      width: auto;
+      height: auto;
+    }
+    .carro{
+      justify-content: right;
+      margin-left: 20px;
+    }
+
+       
+     nav {
+      background-color: #222222;
+      display: inline-flex;
+      justify-content: left;
+      padding: 10px 0px;
+    }
+
+    nav a {
+      margin: 0 15px;
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+      transition: opacity 0.3s;
+    }
+
+    nav a:hover {
+      opacity: 0.7;
+    }
+
+    .search-container {
+      max-width: 400px;
+      margin: auto;
+      background-color: #222222;
+    }
+
+    .search-box {
+      display: flex;
+      width: 100%;
+      border: 2px solid #ffffff;
+      border-radius: 5px;
+      overflow: hidden;
+      background-color: white;
+    }
+
+    .search-box input[type="text"] {
+      flex: 1;
+      padding: 10px;
+      border: none;
+      outline: none;
+      font-size: 16px;
+    }
+
+    .search-box button {
+      padding: 10px 20px;
+      border: none;
+      background-color: rgba(0, 0, 0, 0.564);
+      color: white;
+      cursor: pointer;
+      font-size: 16px;
+      transition: background-color 0.3s;
+    }
+
+    .search-box button:hover {
+      background-color: rgba(0, 0, 0, 0.834);
+    }
+
+.imagen3{
+    height: 500px;
+    width: 2117px;
+    
+}
+.admicion{
+    text-align: center;
+    color: white;
+    font-size: 22px;
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+p{
+    color: red;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ .contenedor {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 20px;
+      padding: 10px 10px;
+      background-color:rgba(255, 255, 255, 0.137);
+      border-radius: 20px;
+
+    }
+
+     footer{
+      background-color: #222222;
+      color: #ccc;
+      padding: 20px;
+      font-size: 0.9em;
+      
+    }
+    .foot{
+      align-content: flex-start;
+      display: flex;
+      flex-direction: row;
+      justify-content: flex-start;
+      justify-items: flex-start;
+    }
+    .TecHub{
+      width: 300px;
+      margin-bottom: 17px;
+      position: static;
+    }
+    .a-mark{
+      text-decoration: none;
+      color: #cccccc6e;
+      cursor: pointer;
+      transition: color 0.3s;
+      transition: opacity 0.3s;
+    }
+    .a-mark:hover{
+      color: rgba(255, 0, 0, 0.781);
+      opacity: 0.7;
+    }
+    .redes-sociales{
+      margin-inline-start: 20px;
+      width: 28px;
+      justify-content: left;
+    }
+    .footer-bottom-group{
+      align-content: flex-start;
+      display: grid;
+      margin: 5px 50px;
+      justify-content: flex-start;
+      justify-items: flex-start;
+    }
+    .copyright{
+      text-align: center;
+      margin-top: 50px;
+    }
+
+
+    .contactanos{
+text-align: left;
+color: white;
+font-size: 50px;
+    }
+      
+
+    
+
