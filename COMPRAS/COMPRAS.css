@@ -84,29 +84,38 @@
       justify-content: center;
       display:grid;
       grid-template-columns: 1fr 3fr;
-      margin-bottom:70px;
     }
     aside{
-      border: solid #fff;
-    }
-    .filtrar{
-      background-color: #222222;
-      box-pack: center;
-      -ms-flex-pack: center;
-      box-align: center;
-      -ms-flex-align: center;
-      align-items: center;
-      border: 0;
-      display: -webkit-box;
-      display: -ms-flexbox;
-      display: flex;
-      font-weight: 700;
+      display: block;
+      margin: 45px 25px;
       justify-content: center;
-      padding: 25px 30px;
+    }
+    .asidecard{
+      background-color: white;
+      width: 330px;
+      height: 1070px;
+      border-radius: 15px;
+      box-shadow: 5px 8px 15px 8px rgba(0, 0, 0, 0.05);
+      display: flex;
+      flex-direction: column;
     }
     .categoriamain{
       color: white;
-      text-decoration: none;
+      margin: 22px 9px 11px 9px;
+      padding: 12px 20px;
+      font-size: 26px;
+      font-weight: 605;
+      text-align: center;
+      background-color: #333;
+      border-radius: 10px
+    }
+    .items{
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      margin: 10px;
+      margin-left: 60px;
+      width: 60%;
     }
     .categoriaa{
       color: #222222;
@@ -120,43 +129,69 @@
       color: rgb(255, 0, 0);
       opacity: 0.7;
     }
-    article{
-      border: solid #333 3px;
-      margin: 21px;
-      padding-bottom: 190px;
-      background-color: white;
+    section{
+      display: grid;
+      justify-content: center;
+      padding: 45px;
+      padding-bottom: 80px;
+      gap: 5px 30px;
+      grid-template-rows: repeat(3, 360px);
+      grid-template-columns: 1fr 1fr 1fr;
     }
-    .titulo{
+    .card{
+      background-color: white;
+      padding: 10px;
+      width: 250px;
+      height: 320px;
+      border-radius: 15px;
+      box-shadow: 5px 8px 15px 8px rgba(0, 0, 0, 0.05);
+      display: flex;
+      flex-direction: column;
+    }
+
+    .cardheader{
+      align-items: center;
+      display: grid;
+      grid-auto-flow: column;
+      justify-content: space-between;
+    }
+
+    .card h2 {
+      margin: 0px;
+      margin-left: 70px;
+      margin-top: 15px;
+      text-align: right;
+      font-size: 22px;
+      color: #222;
+    }
+
+    .card img{
+      width: 140px;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .card p{
       font-size: 12px;
       font-weight: bold;
       text-align: left;
-      margin-left: 10px;
     }
-    .productos{
-      width: 150px;
+      .btncompra{
+      margin-top: 30px;
+      justify-content: center;
+      padding: 10px 20px;
+      border: solid #222222 2px;
+      background-color: #222222;
+      color: white;
+      cursor: pointer;
+      font-size: 16px;
+      transition: background-color 0.1s ease-out, color 0.1s ease-out;
+      border-radius: 25px;
     }
 
-    .precio{
-      font-weight: bold;
-      font-size: 15px;
-      text-align: center;
-      margin: auto 10px;
-    }
-    .comprar{
-      border: solid #333;
-      background-color: #333;
-      color: white;
-    }
-    .boton_comprar{
-      background-color:white;
-      margin-left: 70px;
-      cursor: pointer;
-    }
-    section{
-    display: grid;
-    grid-template-rows: repeat(3, 300px);
-    grid-template-columns: 1fr 1fr 1fr;
-    border: solid #fff;
+    .btncompra:hover {
+      background-color: rgba(255, 0, 0, 0.781);
+      color: #222222;
     }
 
     footer {
@@ -193,6 +228,10 @@
       margin-inline-start: 20px;
       width: 28px;
       justify-content: left;
+      transition: opacity 0.3s;
+    }
+    .redes-sociales:hover{
+      opacity: 0.7;
     }
     .footer-bottom-group{
       align-content: flex-start;
